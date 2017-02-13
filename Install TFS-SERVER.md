@@ -12,10 +12,6 @@ https://msdn.microsoft.com/zh-cn/library/hh529825(v=vs.120).aspx#InstallSQL
 
     TFS-SERVER
 
-# 4、安装与配置
-
-https://msdn.microsoft.com/zh-cn/library/hh529828(v=vs.120).aspx
-
 
 # 5、安装 SQL Server 以支持 Team Foundation Server
 
@@ -42,6 +38,8 @@ https://msdn.microsoft.com/zh-cn/library/hh529828(v=vs.120).aspx
 
 
 
-# 7、安装TFS
+# 6、安装TFS
 
+# 7、安装与配置
 
+https://msdn.microsoft.com/zh-cn/library/hh529828(v=vs.120).aspx
