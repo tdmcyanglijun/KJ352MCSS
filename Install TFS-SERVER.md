@@ -13,7 +13,7 @@ https://msdn.microsoft.com/zh-cn/library/hh529825(v=vs.120).aspx#InstallSQL
     TFS-SERVER
 
 
-# 5、安装 SQL Server 以支持 Team Foundation Server
+# 4、安装 SQL Server 以支持 Team Foundation Server
 
 1. 启动 SQL Server 安装中心。
 2. 在“SQL Server 安装中心”页上，选择“安装”，然后选择“全新安装或向现有安装添加功能”。
@@ -34,7 +34,7 @@ https://msdn.microsoft.com/zh-cn/library/hh529825(v=vs.120).aspx#InstallSQL
 
 
 
-# 6、在新服务器上安装 SharePoint Foundation
+# 5、在新服务器上安装 SharePoint Foundation
 
 
 
