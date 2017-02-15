@@ -36,7 +36,7 @@ https://msdn.microsoft.com/zh-cn/library/hh529825(v=vs.120).aspx#InstallSQL
 
 # 5、在新服务器上安装 SharePoint Foundation
 
-
+下载：sharepoint foundation 2013 sp1，
 
 # 6、安装TFS
 
